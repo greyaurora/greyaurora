@@ -1,0 +1,17 @@
+[
+    {
+        "title": "SpendQuiz",
+        "description": "A lightweight, experimental budgeting app.",
+        "image": "images/stock/10.jpg"
+    },
+    {
+        "title": "SpendQuiz 2",
+        "description": "A lightweight, experimental budgeting app: the sequel.",
+        "image": "images/stock/11.jpg"
+    },
+    {
+        "title": "SpendQuiz 3",
+        "description": "A lightweight, experimental budgeting app: the sequel: the sequel.",
+        "image": "images/stock/12.jpg"
+    }
+]
